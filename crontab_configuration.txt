@@ -1,0 +1,2 @@
+# This is the format for setting up a crontab to run Sunday - Friday at 6pm
+* 18 * * * 1-5,7
